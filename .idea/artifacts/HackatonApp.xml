@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HackatonApp">
+    <output-path>$PROJECT_DIR$/out/artifacts/HackatonApp</output-path>
+    <root id="archive" name="HackatonApp.war">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
